@@ -1,0 +1,18 @@
+.project-card {
+    height: 200px;
+    border: 6px solid rgb(77, 40, 40);
+    border-radius: 10px 10px 0px 0px;
+    overflow: hidden;
+}
+
+.project-card1 {
+    border: 2px solid gray;
+}
+
+.mypro {
+    transition: all 10s ease;
+}
+
+.project-card:hover .mypro {
+    transform: translateY(-84%);
+}

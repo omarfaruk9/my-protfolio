@@ -1,0 +1,100 @@
+[
+    {
+        "id": "01",
+        "project_name": "Fitness BD",
+        "img1": "https://i.ibb.co/6ggkfRY/Screenshot-2021-11-29-at-21-56-00-Fitness.png",
+        "img2": "https://i.ibb.co/3vmdgyY/Screenshot-2021-12-01-180020.png",
+        "img3": "https://i.postimg.cc/C58tPDFL/Screenshot-2021-12-01-182136.png",
+        "img4": "https://i.postimg.cc/jd8hBcjg/Screenshot-2021-12-01-183007.png",
+        "desc1": "It is a React application",
+        "desc2": "User can register and login also user can joined with FITNESS BD",
+        "desc3": "This website fully responsive and user friendly also dynamic",
+        "tec": {
+            "html": "HTML5",
+            "css": "Css3",
+            "react": "React Js",
+            "react_boot": "REACT BOOTSTRAP",
+            "firebase": "FIREBASE",
+            "TypeW": "TYPEWRITER JS V2",
+            "font_aw": "FONT AWESOME"
+        }
+    },
+    {
+        "id": "02",
+        "project_name": "Car Shop",
+        "img1": "https://i.ibb.co/mNJ8tpt/Screenshot-2021-12-01-at-17-31-40-React-App.png",
+        "img2": "https://i.postimg.cc/MTZ98shv/Screenshot-2021-12-01-183830.png",
+        "img3": "https://i.postimg.cc/28L2mLXF/Screenshot-2021-12-01-183850.png",
+        "img4": "https://i.postimg.cc/k5HvknFh/Screenshot-2021-12-01-183957.png",
+        "desc1": "On this site, if a customer wants to order any product he has to be logged in. After placingan order user will be able to cancel the ordered product by going to his dashboard.",
+        "desc2": "A Customer can review from his own experience about our service.",
+        "desc3": "Users can log in and register.",
+        "tec": {
+            "html": "HTML5",
+            "css": "Css3",
+            "react": "React Js",
+            "react_boot": "REACT BOOTSTRAP",
+            "firebase": "FIREBASE",
+            "TypeW": "TYPEWRITER JS V2",
+            "font_aw": "FONT AWESOME"
+        }
+    },
+    {
+        "id": "03",
+        "project_name": "Honda Cbr",
+        "img1": "https://i.postimg.cc/jdd4vs9N/Screenshot-2021-12-01-at-19-53-46-Honda-Gunda.png",
+        "img2": "https://i.postimg.cc/cLCZsSnN/Screenshot-2021-12-01-191848.png",
+        "img3": "https://i.postimg.cc/LX1zY5JK/Screenshot-2021-12-01-194843.png",
+        "img4": "https://i.postimg.cc/1t5kyxXq/Screenshot-2021-12-01-195109.png",
+        "desc1": "It is a single page web site created by HTML5,Css3 and Bootstrap 5",
+        "desc2": "Creative design",
+        "desc3": "This web page fully responsive",
+        "tec": {
+            "html": "HTML5",
+            "css": "Css3",
+            "react": "React Js",
+            "react_boot": "REACT BOOTSTRAP",
+            "firebase": "FIREBASE",
+            "TypeW": "TYPEWRITER JS V2",
+            "font_aw": "FONT AWESOME"
+        }
+    },
+    {
+        "id": "04",
+        "project_name": "Fitness BD",
+        "img1": "https://i.ibb.co/Ny4dgPX/Screenshot-2021-11-29-at-21-58-16-Online-Shop.png",
+        "img2": "https: //i.ibb.co/XJWTn9L/Screenshot-2021-12-01-at-16-53-58-React-App.png",
+        "img3": "https: //i.ibb.co/6Y3rcBn/Screenshot-2021-12-01-at-16-53-47-React-App.png",
+        "desc1": "It is a React application",
+        "desc2": "User can register and login also user can joined with FITNESS BD",
+        "desc3": "This website fully responsive and user friendly also dynamic",
+        "tec": {
+            "html": "HTML5",
+            "css": "Css3",
+            "react": "React Js",
+            "react_boot": "REACT BOOTSTRAP",
+            "firebase": "FIREBASE",
+            "TypeW": "TYPEWRITER JS V2",
+            "font_aw": "FONT AWESOME"
+        }
+    },
+    {
+        "id": "05",
+        "project_name": "Fitness BD",
+        "img1": "https://i.ibb.co/Gtnw5fq/Screenshot-2021-08-02-at-11-13-00-Document.png",
+        "img2": "https: //i.ibb.co/XJWTn9L/Screenshot-2021-12-01-at-16-53-58-React-App.png",
+        "img3": "https: //i.ibb.co/6Y3rcBn/Screenshot-2021-12-01-at-16-53-47-React-App.png",
+        "desc1": "It is a React application",
+        "desc2": "User can register and login also user can joined with FITNESS BD",
+        "desc3": "This website fully responsive and user friendly also dynamic",
+        "tec": {
+            "html": "HTML5",
+            "css": "Css3",
+            "react": "React Js",
+            "react_boot": "REACT BOOTSTRAP",
+            "firebase": "FIREBASE",
+            "TypeW": "TYPEWRITER JS V2",
+            "font_aw": "FONT AWESOME"
+        }
+    }
+]
